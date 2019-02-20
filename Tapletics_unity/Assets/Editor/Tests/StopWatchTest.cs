@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
@@ -6,18 +7,20 @@ using UnityEngine.TestTools;
 
 namespace Tests
 {
-    public class StopWatchText
+    public class StopWatchTest
     {
         // A Test behaves as an ordinary method
         [Test]
         public void StopWatchTestSimplePasses()
         {
             // Arrange
-        
+            StopWatch stopWatch = new StopWatch();
             // Act
 
             // Assert
-            Assert.AreEqual(stopWatchText.milliseconds, "00");
+            Console.WriteLine("Hello world");
+            Console.ReadLine();
+            Assert.AreEqual(stopWatch.milliseconds, "00");
         }
     }
 }
