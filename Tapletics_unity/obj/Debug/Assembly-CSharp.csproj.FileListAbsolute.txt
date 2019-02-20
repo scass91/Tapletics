@@ -1,0 +1,2 @@
+/Users/subomi-makers/Documents/projects/Tapletics/Tapletics_unity/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/subomi-makers/Documents/projects/Tapletics/Tapletics_unity/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
