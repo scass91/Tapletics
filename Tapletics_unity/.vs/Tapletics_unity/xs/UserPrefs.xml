@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E5A17896-F68D-25B5-AEFA-83C7BC0D2086}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/StopWatch.cs">
+    <Files>
+      <File FileName="Assets/playerMovement.cs" Line="17" Column="2" NotebookId="1" />
+      <File FileName="Assets/Tests/NewTestScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Editor/Tests/StopWatchTest.cs" Line="22" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="0" Width="1920" Height="1200">
+        <Files>
+          <File FileName="Assets/Scenes/StopWatch.cs" Line="16" Column="20" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
